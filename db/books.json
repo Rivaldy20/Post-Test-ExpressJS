@@ -1,0 +1,27 @@
+[
+
+    {
+        "id": 1,
+        "isbn": "ISBN 978-602-8519-93-9",
+        "judul": "Coding Itu Mudah",
+        "sinopsis": "Buku ini berisi pengetahuan dan tutorial yang membantu anak muda untuk memulai mempelajari coding",
+        "penulis": "Rivaldy Valentino",
+        "genre": "Pengetahuan"
+    },
+    {
+        "id": 2,
+        "isbn": "ISBN 900-621-8453-24-7",
+        "judul": "Latihan Membuat Database",
+        "sinopsis": "Buku ini berisi pengetahuan dan tutorial yang membantu anak muda untuk memulai mempelajari dan membuat database",
+        "penulis": "Vanessa Audrey",
+        "genre": "Pengetahuan"
+    },
+    {
+        "id": 3,
+        "isbn": "ISBN 980-211-1433-68-5",
+        "judul": "Latihan Membuat Javascript",
+        "sinopsis": "Buku ini berisi pengetahuan dan tutorial yang membantu anak muda untuk memulai mempelajari dan membuat Javascript sejak dini",
+        "penulis": "Clarisa Valencia",
+        "genre": "Pengetahuan"
+    }
+]
